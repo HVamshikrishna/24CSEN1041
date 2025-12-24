@@ -9,4 +9,4 @@ elif score >= 70:
 else:
     print("Grade: D or F")
 
-#output
+
