@@ -42,3 +42,30 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
+#output
+Select operation:
+1. Add (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide (/)
+
+Enter choice (1/2/3/4) or 'q' to quit:1
+Enter first number: 10
+Enter second number: 45
+10.0 + 45.0 = 55.0
+
+Enter choice (1/2/3/4) or 'q' to quit:2
+Enter first number: 10
+Enter second number: 66
+10.0 - 66.0 = -56.0
+
+Enter choice (1/2/3/4) or 'q' to quit: 3
+Enter first number: 2
+Enter second number: 8
+2.0 * 8.0 = 16.0
+
+Enter choice (1/2/3/4) or 'q' to quit: 4
+Enter first number: 10
+Enter second number: 10
+10.0 / 10.0 = 1.0
