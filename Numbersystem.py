@@ -7,9 +7,9 @@ def number_system_converter():
         
        
         print("\nChoose a target base:")
-        print(" 2 -> Binary")
-        print(" 8 -> Octal")
-        print("16 -> Hexadecimal")
+        print(" 2 is Binary")
+        print(" 8 is Octal")
+        print("16 is Hexadecimal")
         base = int(input("Enter Base (2, 8, or 16): "))
 
         print("-" * 30)
